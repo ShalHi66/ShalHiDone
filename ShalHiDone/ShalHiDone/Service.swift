@@ -14,10 +14,7 @@ public class Service {
     private init() {}
     
     public static func doSomething() -> String {
-        return "my name's Shal hi done."
+         return "Shal Hi" //+ "استیو جابز"
     }
     
-    public static func ShalHi() -> String {
-        return "Shal Hi" + "استیو جابز"
-    }
 }

@@ -17,6 +17,8 @@ class ViewController: UIViewController {
         let cc = Service.doSomething()
         print(cc)
         
+        let dd = Service.ShalHi()
+        print(dd)
     }
 
 
