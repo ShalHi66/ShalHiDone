@@ -16,4 +16,8 @@ public class Service {
     public static func doSomething() -> String {
         return "my name's Shal hi done."
     }
+    
+    public static func ShalHi() -> String {
+        return "Shal Hi" + "استیو جابز"
+    }
 }
