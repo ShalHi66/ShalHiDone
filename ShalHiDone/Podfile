@@ -6,5 +6,5 @@ target 'ShalHiDone' do
   use_frameworks!
 
   # Pods for ShalHiDone
-
+pod 'Alamofire'
 end
