@@ -1,0 +1,6 @@
+framework module ShalHiDone {
+  umbrella header "ShalHiDone-umbrella.h"
+
+  export *
+  module * { export * }
+}
