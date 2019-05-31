@@ -11,7 +11,7 @@ import Foundation
 public class Serviceee {
     
     public static func doSomethinggg(input: String) -> String {
-         return "\n    Hi Hi Hi  \(input)"
+         return "\n    Hi Hi  \(input)"
     }
     
 }
