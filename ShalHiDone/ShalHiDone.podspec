@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
   s.license      = "MIT"
   s.author       = "Shal Hi"
   s.platform     = :ios, "12.0"
-  s.source       = { :git => "https://github.com/ShalHi66/ShalHiDone.git", :tag => "1.0.0" }
+  s.source       = { :git => "https://github.com/ShalHi66/ShalHiDone.git", :tag => "1.1.2" }
   s.source_files  = "ShalHiDone/**/*.{swift}"
   # s.source_files  = "ShalHiDone"
   s.swift_version       = "4.2"
