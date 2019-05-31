@@ -13,5 +13,7 @@ Pod::Spec.new do |s|
   s.source_files  = "ShalHiDone/**/*.{swift}"
   # s.source_files  = "ShalHiDone"
   s.swift_version       = "4.2"
+  s.exclude_files = "ShalHiDone/ShalHiDone/*.plist"
+
 
 end
