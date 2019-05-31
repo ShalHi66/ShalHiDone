@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		1770C2C322A15ED000566CBA /* Knob.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1770C2C222A15ED000566CBA /* Knob.swift */; };
+		1770C2C522A15ED900566CBA /* KnobRender.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1770C2C422A15ED900566CBA /* KnobRender.swift */; };
+		1770C2C722A15EE000566CBA /* RotationGestureRecognizer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1770C2C622A15EE000566CBA /* RotationGestureRecognizer.swift */; };
 		178BF76522A1097F00521ACD /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C830E922A0208C00138D45 /* Service.swift */; };
 		17C830E322A0207300138D45 /* ShalHiDone.h in Headers */ = {isa = PBXBuildFile; fileRef = 17C830E122A0207300138D45 /* ShalHiDone.h */; settings = {ATTRIBUTES = (Public, ); }; };
 		17C8314F22A04A5400138D45 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17C8314E22A04A5400138D45 /* Alamofire.framework */; };
@@ -15,6 +18,9 @@
 
 /* Begin PBXFileReference section */
 		0BFE3265D3A23DFD8EA6B771 /* Pods-ShalHiDone.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-ShalHiDone.release.xcconfig"; path = "Pods/Target Support Files/Pods-ShalHiDone/Pods-ShalHiDone.release.xcconfig"; sourceTree = "<group>"; };
+		1770C2C222A15ED000566CBA /* Knob.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Knob.swift; sourceTree = "<group>"; };
+		1770C2C422A15ED900566CBA /* KnobRender.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = KnobRender.swift; sourceTree = "<group>"; };
+		1770C2C622A15EE000566CBA /* RotationGestureRecognizer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RotationGestureRecognizer.swift; sourceTree = "<group>"; };
 		17C830DE22A0207300138D45 /* ShalHiDone.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = ShalHiDone.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		17C830E122A0207300138D45 /* ShalHiDone.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = ShalHiDone.h; sourceTree = "<group>"; };
 		17C830E222A0207300138D45 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -61,6 +67,9 @@
 				17C830E122A0207300138D45 /* ShalHiDone.h */,
 				17C830E222A0207300138D45 /* Info.plist */,
 				17C830E922A0208C00138D45 /* Service.swift */,
+				1770C2C222A15ED000566CBA /* Knob.swift */,
+				1770C2C422A15ED900566CBA /* KnobRender.swift */,
+				1770C2C622A15EE000566CBA /* RotationGestureRecognizer.swift */,
 			);
 			path = ShalHiDone;
 			sourceTree = "<group>";
@@ -184,7 +193,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				1770C2C522A15ED900566CBA /* KnobRender.swift in Sources */,
+				1770C2C722A15EE000566CBA /* RotationGestureRecognizer.swift in Sources */,
 				178BF76522A1097F00521ACD /* Service.swift in Sources */,
+				1770C2C322A15ED000566CBA /* Knob.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

@@ -8,12 +8,10 @@
 
 import Foundation
 
-public class Service {
+public class Serviceee {
     
-    private init() {}
-    
-    public static func doSomething() -> String {
-         return "Shal Hi  ok   " + "استیو جابز" + " 1955 "
+    public static func doSomethinggg() -> String {
+         return "    iOK"
     }
     
 }
