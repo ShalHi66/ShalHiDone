@@ -7,8 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		178BF76522A1097F00521ACD /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C830E922A0208C00138D45 /* Service.swift */; };
 		17C830E322A0207300138D45 /* ShalHiDone.h in Headers */ = {isa = PBXBuildFile; fileRef = 17C830E122A0207300138D45 /* ShalHiDone.h */; settings = {ATTRIBUTES = (Public, ); }; };
-		17C830EA22A0208C00138D45 /* Service.swift in Sources */ = {isa = PBXBuildFile; fileRef = 17C830E922A0208C00138D45 /* Service.swift */; };
 		17C8314F22A04A5400138D45 /* Alamofire.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 17C8314E22A04A5400138D45 /* Alamofire.framework */; };
 		189B36CB74F67B0C692774FA /* Pods_ShalHiDone.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E8417B8A0B1E65570779EA32 /* Pods_ShalHiDone.framework */; };
 /* End PBXBuildFile section */
@@ -184,7 +184,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				17C830EA22A0208C00138D45 /* Service.swift in Sources */,
+				178BF76522A1097F00521ACD /* Service.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

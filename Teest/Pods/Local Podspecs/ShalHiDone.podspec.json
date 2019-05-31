@@ -5,9 +5,7 @@
   "description": "this framework is for easy calling APIs.",
   "homepage": "https://github.com/ShalHi66/ShalHiDone",
   "license": "MIT",
-  "authors": {
-    "Shal Hi": "hashemi6670ali@gmail.com"
-  },
+  "authors": "Shal Hi",
   "platforms": {
     "ios": "12.0"
   },
@@ -15,5 +13,7 @@
     "git": "https://github.com/ShalHi66/ShalHiDone.git",
     "tag": "1.0.0"
   },
-  "source_files": "ShalHiDone/**/*.{swift}"
+  "source_files": "ShalHiDone/**/*.{swift}",
+  "swift_versions": "4.2",
+  "swift_version": "4.2"
 }

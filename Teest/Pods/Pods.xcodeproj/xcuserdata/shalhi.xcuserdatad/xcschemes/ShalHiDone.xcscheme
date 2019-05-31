@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Scheme
-   LastUpgradeVersion = "0930"
+   LastUpgradeVersion = "1020"
    version = "1.3">
    <BuildAction
       parallelizeBuildables = "YES"
@@ -14,10 +14,10 @@
             buildForArchiving = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "2E94970A34DD5CE74D741763A8E80B3B"
+               BlueprintIdentifier = "B87DDF90F34D7B3FC755426DA6FD6394"
+               BuildableName = "ShalHiDone.framework"
                BlueprintName = "ShalHiDone"
-               ReferencedContainer = "container:Pods.xcodeproj"
-               BuildableName = "ShalHiDone.framework">
+               ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>

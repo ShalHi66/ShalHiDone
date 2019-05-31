@@ -7,9 +7,11 @@ Pod::Spec.new do |s|
   s.description  = "this framework is for easy calling APIs."
   s.homepage     = "https://github.com/ShalHi66/ShalHiDone"
   s.license      = "MIT"
-  s.author       = { "Shal Hi" => "hashemi6670ali@gmail.com" }
+  s.author       = "Shal Hi"
   s.platform     = :ios, "12.0"
   s.source       = { :git => "https://github.com/ShalHi66/ShalHiDone.git", :tag => "1.0.0" }
   s.source_files  = "ShalHiDone/**/*.{swift}"
+  # s.source_files  = "ShalHiDone"
+  s.swift_version       = "4.2"
 
 end

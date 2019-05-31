@@ -2,15 +2,15 @@ PODS:
   - ShalHiDone (1.0.0)
 
 DEPENDENCIES:
-  - ShalHiDone (from `../ShalHiDone/`)
+  - ShalHiDone (from `../ShalHiDone`)
 
 EXTERNAL SOURCES:
   ShalHiDone:
-    :path: "../ShalHiDone/"
+    :path: "../ShalHiDone"
 
 SPEC CHECKSUMS:
-  ShalHiDone: f214fc9506e7efdcc6141b5376fb03064258b57d
+  ShalHiDone: b2f29b4beb711d3eb98a3060127ffbebb4a653d3
 
-PODFILE CHECKSUM: e3cbc06f38282df02be98022bcb8298869b7bfa0
+PODFILE CHECKSUM: c09195af19e59fdbf4fc634988d833f507ddccb4
 
-COCOAPODS: 1.5.3
+COCOAPODS: 1.7.1
